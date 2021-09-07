@@ -26,4 +26,4 @@ samples, guidance on mobile development, and a full API reference.
 # Demo
 
 <p align="center">
-<img title="UI/UX iOS" src="assets/readme/demo.jpg">  
+<img title="UI/UX iOS" src="assets/readme/demo.jpg" height="600px">  
